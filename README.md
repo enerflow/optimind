@@ -1,1 +1,1 @@
-# optimal-trading
+# OptiMind
